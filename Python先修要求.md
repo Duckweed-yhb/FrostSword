@@ -1,4 +1,4 @@
-# Python 先修要求 · Crafts-Island 手艺岛
+# Python 先修要求 · FrostSword 霜剑
 
 > 本文回答一个问题：**为了做这个项目，`python-100-days` 要学到哪里、学到什么程度。**
 > 撰写：2026-10-18 ｜ 依据：本项目自身的 `零基础前置学习路线.md`、`项目实战开发路线.md`、`ARCHITECTURE.md`
